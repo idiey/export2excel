@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Laporan ke Excel</title>
+  </head>
+  <body>
+      <h2>Laporan Pendaftar Ke Excel</h2>
+      <table border="1">
+          <tr>
+            <th>No </th>
+            <th>ID </th>
+            <th> NAMA LENGKAP</th>
+            <th>NIM </th>
+            <th> L/P</th>
+            <th>Nomor HP </th>
+            <th> LINE/BBM</th>
+            <th>Mentoring </th>
+            <th> Tanggal Daftar</th>
+            <th>Status </th>
+          </tr>
+
+          
+                    <tr>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>M Nurul Irfan</td>
+                    <td>A11.2014.08363</td>
+                    <td>L</td>
+                    <td>089522248642</td>
+                    <td>@mnirfan</td>
+                    <td>Sudah</td>
+                    <td>2017-01-01 22:18:33</td>
+                    <td>Pending</td>
+
+                    </tr>
+                
+                    <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>Zakiy Anwar F</td>
+                    <td>A11.2014.08326</td>
+                    <td>L</td>
+                    <td>08122334444</td>
+                    <td>@zakiyanwar</td>
+                    <td>Belum</td>
+                    <td>2016-12-27 10:14:03</td>
+                    <td>Pending</td>
+
+                    </tr>
+                
+                    <tr>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>Indra Kusuma</td>
+                    <td>A11.2014.08316</td>
+                    <td>L</td>
+                    <td>08952248642</td>
+                    <td>@indra.update</td>
+                    <td>Belum</td>
+                    <td>2016-12-27 01:43:55</td>
+                    <td>Pending</td>
+
+                    </tr>
+                          <tr>
+
+          </tr>
+      </table>
+
+      <p><a href="ex2excel.php"><button>Export Data ke Excel</button></a></p>
+  </body>
+</html>
